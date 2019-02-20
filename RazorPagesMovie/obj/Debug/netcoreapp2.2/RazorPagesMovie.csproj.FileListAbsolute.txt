@@ -28,3 +28,8 @@ C:\Users\Zahar\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp
 C:\Users\Zahar\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.2\RazorPagesMovie.dll
 C:\Users\Zahar\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.2\RazorPagesMovie.pdb
 C:\Users\Zahar\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.2\RazorPagesMovie.csproj.CopyComplete
+C:\Users\Zahar\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Create.g.cshtml.cs
+C:\Users\Zahar\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Delete.g.cshtml.cs
+C:\Users\Zahar\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Details.g.cshtml.cs
+C:\Users\Zahar\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Edit.g.cshtml.cs
+C:\Users\Zahar\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Index.g.cshtml.cs
